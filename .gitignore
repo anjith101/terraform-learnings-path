@@ -1,0 +1,6 @@
+.terraform
+terraform.tfstate
+terraform_key.pem
+terraform_key.pem:Zone.Identifier
+terraform.tfstate
+.terraform.lock.hcl
