@@ -2,6 +2,6 @@
 terraform.tfstate
 terraform_key.pem
 terraform_key.pem:Zone.Identifier
-terraform.tfstate
+terraform.tfstate.backup
 .terraform.lock.hcl
 *.out
